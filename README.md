@@ -7,7 +7,9 @@
 * 💻 Own a +200 TB cluster; a side-business in the Web 3.0
 
 
-### My skills
+## My skills
+
+Take a look at my experience and expertise.
 
 * 💻 **Debian** and **Rocky Linux** are my favorite distributions.
 * 🐋 **Docker** for hosting containerized applications.
