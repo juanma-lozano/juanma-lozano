@@ -2,7 +2,7 @@
  
 
 * ❤️ I'm passionate about linux, software & the data industry.
-* 🎮 Participated in the development [Blasphemous](https://thegamekitchen.com/blasphemous/).
+* 🎮 One of the devs behind the development of [Blasphemous](https://thegamekitchen.com/blasphemous/).
 * 💼 Working as Big Data Administrator at [Pue](https://www.pue.es/).
 * 💻 Own a +200 TB cluster as an automated side-business.
 
