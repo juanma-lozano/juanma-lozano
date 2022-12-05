@@ -13,5 +13,5 @@ Take a look at my experience and expertise.
 
 * 💻 **Debian / Ubuntu** are my favorite distributions. Rocky Linux looks good.
 * 🐋 **Docker** for hosting containerized applications.
-* 🐍 **Python** is my favorite coding language. I also know Java, C# & NodeJS.
+* 🐍 **Python** is my favorite coding language. I also wrote Java, C# & NodeJS code.
 * ✅ **Scrum** is the agile methodology that I have experience with.
